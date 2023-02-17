@@ -5,7 +5,8 @@
 
 // Enable/disable
 // #define GETTER_SETTER
-#define JAGGED_ARRAY
+// #define JAGGED_ARRAY
+#define ARRAY_LIST
 
 namespace AdvanceCsharp;
 
@@ -37,6 +38,13 @@ public class Program
 
         // Print the jagged array
         jaggedArray.PrintJaggedArray();
+        #endif
+        #endregion
+
+        #region ArrayList
+        #if ARRAY_LIST
+        // Create a new instance of ArrayLists
+        var arrayLists = new ArrayLists();
         #endif
         #endregion
     }
