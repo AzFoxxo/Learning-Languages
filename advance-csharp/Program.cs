@@ -6,7 +6,8 @@
 // Enable/disable
 // #define GETTER_SETTER
 // #define JAGGED_ARRAY
-#define ARRAY_LIST
+// #define ARRAY_LIST
+#define ERROR_HANDLING
 
 namespace AdvanceCsharp;
 
@@ -45,6 +46,13 @@ public class Program
         #if ARRAY_LIST
         // Create a new instance of ArrayLists
         var arrayLists = new ArrayLists();
+        #endif
+        #endregion
+
+        #region Error Handling
+        #if ERROR_HANDLING
+        // Create a new instance of ErrorHandling
+        var errorHandling = new ErrorHandling();
         #endif
         #endregion
     }
