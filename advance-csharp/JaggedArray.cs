@@ -10,7 +10,7 @@ public class JaggedArray
     // Jagged arrays are arrays embedded in arrays
 
     // Create a new array of arrays
-    public static int[][] jaggedArray = new int[3][];
+    public int[][] jaggedArray = new int[3][];
     
     // Create each array in the jagged array which can be different sizes
     public JaggedArray()
@@ -23,6 +23,14 @@ public class JaggedArray
         jaggedArray[0] = new int[] { 489, 2344, 43 };
         jaggedArray[1] = new int[] { 234, 234 };
         jaggedArray[2] = new int[] { 234, 234, 234, 234 };
+
+        // Alternative way of setting values
+        // jaggedArray = new int[][]
+        // {
+        //     new int[] { 489, 2344, 43 },
+        //     new int[] { 234, 234 },
+        //     new int[] { 234, 234, 234, 234 }
+        // };
     }
 
     // Print each item in the jagged array
