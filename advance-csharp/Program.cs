@@ -7,7 +7,8 @@
 // #define GETTER_SETTER
 // #define JAGGED_ARRAY
 // #define ARRAY_LIST
-#define ERROR_HANDLING
+// #define ERROR_HANDLING
+#define INTERFACES
 
 namespace AdvanceCsharp;
 
@@ -53,6 +54,13 @@ public class Program
         #if ERROR_HANDLING
         // Create a new instance of ErrorHandling
         var errorHandling = new ErrorHandling();
+        #endif
+        #endregion
+
+        #region Interfaces
+        #if INTERFACES
+        // Create a new instance of Interfaces
+        var interfaces = new Interfaces();
         #endif
         #endregion
     }
