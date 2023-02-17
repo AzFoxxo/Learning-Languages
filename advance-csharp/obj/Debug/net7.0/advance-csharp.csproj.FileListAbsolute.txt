@@ -1,0 +1,15 @@
+C:\Users\Az\Learning-Languages\advance-csharp\bin\Debug\net7.0\advance-csharp.exe
+C:\Users\Az\Learning-Languages\advance-csharp\bin\Debug\net7.0\advance-csharp.deps.json
+C:\Users\Az\Learning-Languages\advance-csharp\bin\Debug\net7.0\advance-csharp.runtimeconfig.json
+C:\Users\Az\Learning-Languages\advance-csharp\bin\Debug\net7.0\advance-csharp.dll
+C:\Users\Az\Learning-Languages\advance-csharp\bin\Debug\net7.0\advance-csharp.pdb
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.csproj.AssemblyReference.cache
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.AssemblyInfoInputs.cache
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.AssemblyInfo.cs
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.dll
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\refint\advance-csharp.dll
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.pdb
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\advance-csharp.genruntimeconfig.cache
+C:\Users\Az\Learning-Languages\advance-csharp\obj\Debug\net7.0\ref\advance-csharp.dll
