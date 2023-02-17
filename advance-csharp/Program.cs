@@ -5,6 +5,7 @@
 
 // Enable/disable
 // #define GETTER_SETTER
+#define JAGGED_ARRAY
 
 namespace AdvanceCsharp;
 
@@ -26,6 +27,16 @@ public class Program
 
         // Print the value of ABCD
         Console.WriteLine(propertiesRefresher.ABCD());
+        #endif
+        #endregion
+
+        #region Jagged Array
+        #if JAGGED_ARRAY
+        // Create a new instance of JaggedArray
+        var jaggedArray = new JaggedArray();
+
+        // Print the jagged array
+        jaggedArray.PrintJaggedArray();
         #endif
         #endregion
     }
