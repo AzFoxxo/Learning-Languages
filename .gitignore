@@ -1,2 +1,3 @@
-*bin/
-*bin/
+# Exclude */.obj and */.bin directories
+*/.obj/
+*/.bin/
